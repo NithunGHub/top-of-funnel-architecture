@@ -18,6 +18,14 @@ This repo covers the top of the funnel as a system: the mechanics of lead captur
 | [02 - Lead Scoring](docs/02-lead-scoring.md) | Fit, intent, and engagement scoring; thresholds; decay |
 | [03 - Routing and Assignment](docs/03-routing-and-assignment.md) | Territory, round-robin, and account-based routing; SLAs; fallbacks |
 | [04 - SDR Playbook](docs/04-sdr-playbook.md) | Working cadence, sequences, qualification, and the AE handoff |
+| [05 - Lead Lifecycle Framework](docs/05-lead-lifecycle-framework.md) | The canonical stage model: gates, dispositions, and recycling rules |
+| [06 - Funnel Math](docs/06-funnel-math.md) | Sizing top-of-funnel from a revenue target, with a worked example |
+
+### Templates
+
+| Template | Purpose |
+|----------|---------|
+| [Response SLA Matrix Template](templates/sla-matrix-template.md) | First-touch SLAs by lead type, with escalation rules |
 
 ## The core loop
 
